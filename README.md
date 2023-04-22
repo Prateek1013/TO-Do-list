@@ -1,5 +1,3 @@
-# Link to hosted website
-https://euphonious-lamington-60b49a.netlify.app/
 
 # Getting Started with Create React App
 
